@@ -1,4 +1,3 @@
 # danny-test-repo
-test Repository for DevOps Geek week Sydney
-hello buddy
+"Hello Piper Class of 2019!"
 
